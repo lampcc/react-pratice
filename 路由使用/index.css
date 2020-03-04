@@ -1,0 +1,8 @@
+.menu a {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.app, .menu  {
+  margin-left: 20px;
+}
